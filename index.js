@@ -10,7 +10,7 @@ function Person(fullname, age, gender, height, skinColour) {
     };
  };
 
- const person = new Person('peter agboola', 42, 'male', 5.0, 'black');
+ const person = new Person('femi lekan', 42, 'male', 5.0, 'black');
  console.log(person);
  console.log(person.personProfile());
 
